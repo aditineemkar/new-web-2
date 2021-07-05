@@ -24,7 +24,7 @@ p{
     textAlign:"center";
     font-size:30px;
     display:flex;
-    
+    marginTop:30px;
 }
 .text{
 	font-size:30
