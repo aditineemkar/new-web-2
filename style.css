@@ -18,4 +18,5 @@ p{
 .Header{
     textAlign:"center";
     font-size:30px;
+    display:flex;
 }
