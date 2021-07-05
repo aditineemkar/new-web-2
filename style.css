@@ -6,8 +6,16 @@ body{
 }
 h1{
     color:black;
+    alignSelf:"center"
 }
 p{
     color:black;
     font-size: x-large;
+}
+.images{
+    alignItems:"center"
+}
+.Header{
+    textAlign:"center";
+    font-size:30px;
 }
