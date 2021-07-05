@@ -6,7 +6,7 @@ body{
 }
 h1{
     color:black;
-    alignSelf:"center"
+    align-self:"center"
 }
 p{
     color:black;
@@ -14,18 +14,18 @@ p{
 }
 .images{
     alignItems:"center"
-        position: relative;
-            display: flex;
-	          position: center;
-            align-items: space-around;
-	          justify-content:center;
+    position: relative;
+    display: flex;
+    position: center;
+    align-items: space-around;
+    justify-content:center;
 }
 .Header{
-    textAlign:"center";
+    text-align: center;
     font-size:30px;
     display:flex;
     marginTop:30px;
 }
 .text{
-	font-size:30
+    font-size:30
 }
