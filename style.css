@@ -14,9 +14,15 @@ p{
 }
 .images{
     alignItems:"center"
+        position: relative;
+            display: flex;
+	          position: center;
+            align-items: space-around;
+	          justify-content:center;
 }
 .Header{
     textAlign:"center";
     font-size:30px;
     display:flex;
+    
 }
